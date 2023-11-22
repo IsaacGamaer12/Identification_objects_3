@@ -1,0 +1,40 @@
+body{
+    background: radial-gradient(rgb(0, 81, 255), rgb(0, 170, 255), rgb(173, 229, 253))
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
+
+#status{
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+}
+
+#drawing{
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+}
+
+#bed{
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:aliceblue;
+}
+
+#movil{
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+}
+
+#close{
+    background-color: rgb(228, 6, 6);
+    color: white;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
